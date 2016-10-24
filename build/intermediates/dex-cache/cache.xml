@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.6.1_7aef2cfd3576871432a9a15d5ab2ab35b317b1f3.jar" />
+    </item>
+    <item
+        jar="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1830a7f3517bbcde1abfa4945de1b4c19589b43b.jar" />
+    </item>
+    <item
+        jar="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d62f68b05c540fb52384ab755656f02ab7b19ff3.jar" />
+    </item>
+    <item
+        jar="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_814bd3d50d3c5e70cb934ab6a892e16feaabb91c.jar" />
+    </item>
+    <item
+        jar="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.6.1_0db3d9a8ce319a0a8fc1968408f772d2416a7e7e.jar" />
+    </item>
+    <item
+        jar="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_a94028fc2dccbdbee5df07ca82806018ff1274f0.jar" />
+    </item>
+    <item
+        jar="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5e912c6d7f2aa353dd4258a196b579c3e068f8b4.jar" />
+    </item>
+    <item
+        jar="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_0ba459ab92c50bcfb3b055bce22ed86221cd0a2c.jar" />
+    </item>
+    <item
+        jar="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_6081139e2872ae954a670cf59c68c825dc454592.jar" />
+    </item>
+    <item
+        jar="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_b5969c4dea92f3e665db363ce8b263e4ac20400c.jar" />
+    </item>
+    <item
+        jar="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_dd0d9cdce881eb256ecba65e65d69e1aded1fab2.jar" />
+    </item>
+    <item
+        jar="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_d678afb843caa4ad8d523303435cf55353b5b5e1.jar" />
+    </item>
+    <item
+        jar="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.6.1_c067d66e3fd895d9dc287220a0e160b2bccb9499.jar" />
+    </item>
+    <item
+        jar="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_0db482157233857522560614abaa8e5987dea447.jar" />
+    </item>
+    <item
+        jar="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_58f7a1cde88527dbd2aab9a48c726787b2dab495.jar" />
+    </item>
+    <item
+        jar="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_2c9b3ffef6680cd34a20908d05f4fff64b59c535.jar" />
+    </item>
+    <item
+        jar="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.1_7a030218611b0ea673e598bbf85e4a6513c981af.jar" />
+    </item>
+    <item
+        jar="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_7403e5b6056288dff117c6e29d216bea2ff5490a.jar" />
+    </item>
+    <item
+        jar="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.6.1_013caf00561f720b24f6e6387a966077a4a2a7d7.jar" />
+    </item>
+    <item
+        jar="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.6.1_d62d68d3f33abac2b4566308efebb554d14b5d77.jar" />
+    </item>
+    <item
+        jar="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.6.1_8d6dc67c677b0e352d53354632ed7814498dde2b.jar" />
+    </item>
+    <item
+        jar="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_c597f0cad9ef08e6620cb8c9c9f680ec99b10b88.jar" />
+    </item>
+    <item
+        jar="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.6.1_6e0edfadc932bbbcf4dd3c1a9d11472ea3956701.jar" />
+    </item>
+    <item
+        jar="/home/jsrathore/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_a368ea9288a17fbffa1d0ff67fff021803cc51c7.jar" />
+    </item>
+    <item
+        jar="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/jsrathore/Git/LoginAndRegisterWithAndroid/application/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_40d406d714079d63fa65f7a371bea6c0e47ca9cc.jar" />
+    </item>
+
+</items>

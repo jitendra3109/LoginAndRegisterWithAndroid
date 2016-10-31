@@ -18,7 +18,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".Register" />
-        <activity android:name=".MainActivity"></activity>
+        <activity
+                android:name=".MainActivity"
+                android:noHistory="true"/>
     </application>
 
 </manifest>
